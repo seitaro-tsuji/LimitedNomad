@@ -24,9 +24,8 @@ https://drive.google.com/file/d/1RSThjmhSImGd2VZdiSPyQ7UmB_tb0wT4/view?usp=drive
 
 ## 使用技術
 
-* Unity
+* Unity 2023
 * C#
-* Visual Studio
 
 ## 制作形態
 
